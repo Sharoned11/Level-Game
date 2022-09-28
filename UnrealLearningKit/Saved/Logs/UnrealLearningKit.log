@@ -9550,3 +9550,1635 @@ Make sure 'BP_Projectile_C' has been compiled for  Get ForwardPSpeed
 [2022.09.28-03.51.26:702][835]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/BP_ProjectileFAD703914F4288BB0162B69624577D7E.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset'
 [2022.09.28-03.51.26:722][835]AssetCheck: New page: Asset Save: BP_Projectile
 [2022.09.28-03.51.26:722][835]LogContentValidation: Display: Validating Blueprint /Game/MP2/Bueprints/BP_Projectile.BP_Projectile
+[2022.09.28-03.54.07:834][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Bueprints/BP_Projectile" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset" SILENT=true
+[2022.09.28-03.54.07:900][370]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/BP_Projectile6683584E4844EA6BE20305B65D90F00E.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset'
+[2022.09.28-03.54.07:925][370]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.09.28-03.54.07:925][370]LogContentValidation: Display: Validating Blueprint /Game/MP2/Bueprints/BP_Projectile.BP_Projectile
+[2022.09.28-03.54.18:260][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Bueprints/BP_Projectile" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset" SILENT=true
+[2022.09.28-03.54.18:297][594]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/BP_Projectile84FA70734AA8BB10D24320BBAACFE6F3.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset'
+[2022.09.28-03.54.18:320][594]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.09.28-03.54.18:320][594]LogContentValidation: Display: Validating Blueprint /Game/MP2/Bueprints/BP_Projectile.BP_Projectile
+[2022.09.28-03.55.00:766][499]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-03.55.00:825][499]LogBlueprint: Warning: [AssetLog] G:\My Passport\CS415\Level-Game\UnrealLearningKit\Content\MP2\Bueprints\BP_Projectile.uasset: [Compiler] Could not find a variable named "Launch Velocity" in 'BP_Projectile_C'.
+Make sure 'BP_Projectile_C' has been compiled for  Get Launch Velocity
+[2022.09.28-03.55.00:827][499]LogBlueprint: Error: [AssetLog] G:\My Passport\CS415\Level-Game\UnrealLearningKit\Content\MP2\Bueprints\BP_Projectile.uasset: [Compiler] The property associated with  Launch Velocity  could not be found in '/Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C'
+[2022.09.28-03.55.00:906][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.09.28-03.55.13:462][757]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-03.55.13:559][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.09.28-03.55.16:541][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Bueprints/BP_Projectile" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset" SILENT=true
+[2022.09.28-03.55.16:581][815]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/BP_Projectile32A6FBA14A6CCDC7FFA746B04FF9E764.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset'
+[2022.09.28-03.55.16:606][815]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.09.28-03.55.16:606][815]LogContentValidation: Display: Validating Blueprint /Game/MP2/Bueprints/BP_Projectile.BP_Projectile
+[2022.09.28-03.55.19:114][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-03.55.19:166][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.09.28-03.55.19:264][876]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level052FD8DD4FD2F268AC8CBE8D3517D90E.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap'
+[2022.09.28-03.55.19:280][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level_BuiltData" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset" SILENT=true
+[2022.09.28-03.55.20:181][876]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level_BuiltData182441774BCE8B7C30536CAC5D893EBA.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset'
+[2022.09.28-03.55.20:231][876]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.28-03.55.20:231][876]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MP2/Maps/Level_BuiltData.Level_BuiltData
+[2022.09.28-03.55.20:231][876]LogContentValidation: Display: Validating World /Game/MP2/Maps/Level.Level
+[2022.09.28-03.55.20:696][888]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-03.55.20:712][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-03.55.20:712][888]PIE: New page: PIE session: Level (27 Sep 2022, 21:55:20)
+[2022.09.28-03.55.20:722][888]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-03.55.20:735][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013562s)
+[2022.09.28-03.55.20:736][888]LogAIModule: Creating AISystem for world Level
+[2022.09.28-03.55.20:737][888]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2022.09.28-03.55.20:737][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.014922s)
+[2022.09.28-03.55.20:797][888]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2022.09.28-03.55.20:843][888]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-03.55.20:844][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-03.55.20:844][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-03.55.20:844][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-03.55.20:845][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-03.55.20:845][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-03.55.20:845][888]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-03.55.20:872][888]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-03.55.20:872][888]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-03.55.20:896][888]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-03.55.20:896][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-03.55.20:896][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-03.55.20:896][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-03.55.20:897][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-03.55.20:897][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-03.55.20:897][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-03.55.20:898][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-03.55.20:898][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-03.55.20:898][888]LogInit: FAudioDevice initialized.
+[2022.09.28-03.55.20:898][888]LogAudio: Display: Audio Device (ID: 93) registered with world 'Level'.
+[2022.09.28-03.55.20:908][888]LogLoad: Game class is 'GM_C'
+[2022.09.28-03.55.20:916][888]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-00.55.20
+[2022.09.28-03.55.20:917][888]LogWorld: Bringing up level for play took: 0.005215
+[2022.09.28-03.55.20:917][888]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2022.09.28-03.55.20:922][888]PIE: Server logged in
+[2022.09.28-03.55.20:923][888]PIE: Play in editor total start time 0.218 seconds.
+[2022.09.28-03.55.21:967][913]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.55.22:484][927]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.55.22:983][941]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.55.22:983][941]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.55.23:607][958]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-03.55.23:607][958]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-03.55.24:040][970]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.55.24:550][984]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.55.25:056][998]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.55.25:056][998]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.55.25:139][  0]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-03.55.25:139][  0]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-03.55.26:278][ 21]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_6
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-03.55.26:278][ 21]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-03.56.08:581][114]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.09:002][127]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.09:514][141]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.09:514][141]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.56.09:515][141]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.56.09:515][141]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.10:037][155]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.10:547][169]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.10:547][169]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.56.10:547][169]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.56.10:548][169]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.11:581][197]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.11:581][197]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.56.11:581][197]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.56.12:582][224]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.12:582][224]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.56.12:582][224]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.56.13:613][252]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.13:613][252]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.56.13:613][252]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.56.14:617][279]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.14:617][279]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.56.32:423][742]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_117
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-03.56.32:423][742]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-03.56.52:439][240]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_146
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-03.56.52:439][240]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-03.56.58:338][394]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.58:840][407]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.59:344][420]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.56.59:344][420]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.56.59:346][420]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.56.59:878][434]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.00:346][446]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.00:346][446]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.01:410][473]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.01:941][487]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.02:442][500]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.02:442][500]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.02:445][500]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.02:946][513]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.03:445][526]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.03:445][526]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.03:447][526]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.03:951][539]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.04:477][552]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.04:477][552]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.04:477][552]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.05:509][578]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.05:509][578]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.05:509][578]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.06:524][604]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.06:524][604]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.06:524][604]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.07:544][630]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.07:544][630]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.10:862][702]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.11:417][716]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.11:888][729]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.11:888][729]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.12:428][743]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.12:961][757]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.13:427][769]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.13:427][769]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.22:380][  2]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.22:890][ 15]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.23:391][ 28]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.23:391][ 28]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.23:393][ 28]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.23:927][ 42]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.24:417][ 55]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.24:417][ 55]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.24:996][ 70]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.25:502][ 83]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.25:995][ 96]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.25:995][ 96]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.27:034][123]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.27:558][136]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.28:235][144]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.28:235][144]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.28:235][144]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.28:239][144]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.29:243][168]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.29:243][168]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.29:243][168]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.30:280][194]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.30:280][194]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.30:280][194]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.31:312][221]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.31:312][221]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.36:542][353]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.37:059][366]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.37:568][379]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.37:568][379]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.37:570][379]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.38:073][392]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.38:581][405]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.38:581][405]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.38:582][405]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.39:086][418]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.39:594][431]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.39:595][431]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.39:596][431]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.40:104][444]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.40:617][457]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.40:618][457]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.40:620][457]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.41:144][469]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.41:624][482]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.41:624][482]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-03.57.41:663][483]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.42:281][491]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_226
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-03.57.42:281][491]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-03.57.42:306][492]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.42:664][498]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.42:665][498]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.42:665][498]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.42:847][502]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.43:681][524]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-03.57.43:682][524]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-03.57.43:682][524]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-03.57.43:843][528]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-03.57.44:504][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-03.57.44:504][544]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-03.57.44:505][544]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-03.57.44:507][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-03.57.44:610][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-03.57.44:616][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-03.57.44:656][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-03.57.44:656][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-03.57.44:657][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-03.57.44:661][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-03.57.44:667][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.09.28-03.57.44:907][545]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2022.09.28-03.58.12:424][143]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-03.58.12:501][143]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-04.00.38:901][639]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.00.38:998][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.09.28-04.00.47:078][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-04.00.47:135][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.09.28-04.00.47:243][691]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/LevelF92C8FD547309F4C14A777B8E1AD018D.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap'
+[2022.09.28-04.00.47:270][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level_BuiltData" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset" SILENT=true
+[2022.09.28-04.00.47:978][691]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level_BuiltData463CC48941B8FF802EF9C6BE2D64CD11.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset'
+[2022.09.28-04.00.48:040][691]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.28-04.00.48:040][691]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MP2/Maps/Level_BuiltData.Level_BuiltData
+[2022.09.28-04.00.48:040][691]LogContentValidation: Display: Validating World /Game/MP2/Maps/Level.Level
+[2022.09.28-04.00.48:551][701]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.00.48:566][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.00.48:566][701]PIE: New page: PIE session: Level (27 Sep 2022, 22:00:48)
+[2022.09.28-04.00.48:566][701]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.00.48:582][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016155s)
+[2022.09.28-04.00.48:583][701]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.00.48:583][701]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2022.09.28-04.00.48:583][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.017641s)
+[2022.09.28-04.00.48:631][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.09.28-04.00.48:764][701]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.00.48:764][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.00.48:764][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.00.48:765][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.00.48:765][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.00.48:765][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.00.48:765][701]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.00.48:768][701]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.00.48:768][701]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.00.48:788][701]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.00.48:789][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.00.48:789][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.00.48:789][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.00.48:790][701]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.00.48:790][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.00.48:790][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.00.48:794][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.00.48:794][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.00.48:794][701]LogInit: FAudioDevice initialized.
+[2022.09.28-04.00.48:794][701]LogAudio: Display: Audio Device (ID: 94) registered with world 'Level'.
+[2022.09.28-04.00.48:807][701]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.00.48:815][701]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.00.48
+[2022.09.28-04.00.48:816][701]LogWorld: Bringing up level for play took: 0.005340
+[2022.09.28-04.00.48:816][701]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2022.09.28-04.00.48:821][701]PIE: Server logged in
+[2022.09.28-04.00.48:822][701]PIE: Play in editor total start time 0.262 seconds.
+[2022.09.28-04.00.49:890][727]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.00.50:408][741]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.00.50:900][754]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.00.50:900][754]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.00.51:466][769]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.00.51:466][769]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.00.51:993][783]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.00.52:493][796]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.00.53:017][810]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.00.53:017][810]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.00.53:129][813]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.00.53:129][813]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.00.59:826][991]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.00:853][ 18]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.00:853][ 18]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.01.00:855][ 18]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.01:354][ 31]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.01:858][ 44]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.01:858][ 44]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.01.01:859][ 44]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.02:363][ 57]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.02:858][ 70]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.02:858][ 70]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.01.11:214][282]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_36
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-04.01.11:215][282]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.01.12:801][319]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.13:821][345]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.13:821][345]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.01.13:821][345]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.01.14:844][371]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.14:844][371]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.01.14:844][371]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.01.15:875][398]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.15:875][398]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.01.15:875][398]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.01.16:893][424]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.16:893][424]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.01.24:382][603]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.24:885][616]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.25:396][629]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.25:396][629]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.01.25:397][629]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.25:899][642]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.26:400][655]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.01.26:400][655]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.01.26:400][655]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.01.26:401][655]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.26:905][668]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.01.46:744][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.01.46:744][176]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.01.46:746][176]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.01.46:747][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.01.46:811][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.01.46:818][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.01.46:855][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.01.46:855][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.01.46:856][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.01.46:866][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.09.28-04.01.47:035][177]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2022.09.28-04.02.21:915][741]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.02.22:025][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.09.28-04.02.25:642][798]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.02.25:662][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.02.25:662][798]PIE: New page: PIE session: Level (27 Sep 2022, 22:02:25)
+[2022.09.28-04.02.25:663][798]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.02.25:676][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012606s)
+[2022.09.28-04.02.25:677][798]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.02.25:677][798]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2022.09.28-04.02.25:677][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.013978s)
+[2022.09.28-04.02.25:729][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.09.28-04.02.25:730][798]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.02.25:730][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.02.25:730][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.02.25:730][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.02.25:730][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.02.25:730][798]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.02.25:734][798]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.02.25:734][798]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.02.25:753][798]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.02.25:753][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.02.25:753][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.02.25:753][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.02.25:754][798]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.02.25:754][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.02.25:754][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.02.25:755][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.02.25:755][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.02.25:755][798]LogInit: FAudioDevice initialized.
+[2022.09.28-04.02.25:755][798]LogAudio: Display: Audio Device (ID: 95) registered with world 'Level'.
+[2022.09.28-04.02.25:768][798]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.02.25:777][798]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.02.25
+[2022.09.28-04.02.25:778][798]LogWorld: Bringing up level for play took: 0.005919
+[2022.09.28-04.02.25:778][798]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2022.09.28-04.02.25:783][798]PIE: Server logged in
+[2022.09.28-04.02.25:784][798]PIE: Play in editor total start time 0.133 seconds.
+[2022.09.28-04.02.26:984][827]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.27:515][841]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.28:020][854]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.28:020][854]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.28:554][868]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.02.28:554][868]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.02.29:065][881]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.29:588][895]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.30:085][908]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.30:085][908]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.30:231][912]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.02.30:231][912]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.02.31:154][936]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.31:696][950]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.32:183][963]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.32:183][963]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.32:649][975]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.02.32:649][975]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.02.32:757][978]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.33:305][992]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.33:760][  4]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.33:760][  4]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.37:301][ 86]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_16
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-04.02.37:302][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.02.38:989][128]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.39:508][141]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.40:011][154]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.40:011][154]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.40:012][154]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.40:541][168]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.41:044][181]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.41:044][181]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.41:045][181]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.41:581][195]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.42:103][208]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.42:103][208]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.42:105][208]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.42:629][222]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.43:138][235]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.43:139][235]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.43:141][235]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.43:645][248]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.44:152][261]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.44:152][261]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.44:153][261]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.44:653][274]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.45:164][287]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.45:164][287]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.45:166][287]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.45:668][300]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.46:177][313]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.46:177][313]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.51:417][447]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.51:950][461]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.52:419][473]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.52:419][473]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.53:515][501]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.54:047][515]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.54:516][527]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.54:516][527]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.54:556][528]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.55:105][542]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.55:566][554]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.55:566][554]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.55:604][555]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.56:110][568]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.56:612][581]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.56:612][581]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.56:614][581]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.57:115][594]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.57:621][607]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.57:621][607]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.57:622][607]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.58:132][620]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.58:632][633]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.58:632][633]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.02.58:634][633]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.02.59:637][659]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.02.59:637][659]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.03.03:353][754]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.03:881][767]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.04:383][780]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.03.04:383][780]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.03.04:384][780]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.04:898][793]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.05:399][806]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.03.05:399][806]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.03.05:400][806]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.05:905][819]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.06:425][832]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.03.06:425][832]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.03.06:426][832]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.07:205][843]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_66
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:01C7
+[2022.09.28-04.03.07:205][843]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.03.07:226][844]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.07:446][848]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.03.07:447][848]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.03.09:253][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.03.09:253][893]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.03.09:254][893]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.03.09:255][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.03.09:320][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.03.09:328][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.03.09:370][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.03.09:370][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.03.09:371][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.03.09:375][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.03.09:380][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.09.28-04.03.09:479][894]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2022.09.28-04.03.14:681][933]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-04.03.14:737][933]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-04.03.53:880][552]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.03.54:332][552]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.09.28-04.03.56:518][585]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.03.56:534][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.03.56:534][585]PIE: New page: PIE session: Level (27 Sep 2022, 22:03:56)
+[2022.09.28-04.03.56:535][585]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.03.56:551][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016109s)
+[2022.09.28-04.03.56:552][585]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.03.56:552][585]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2022.09.28-04.03.56:552][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.017396s)
+[2022.09.28-04.03.56:613][585]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2022.09.28-04.03.56:615][585]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2022.09.28-04.03.56:615][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.03.56:615][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.03.56:615][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.03.56:615][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.03.56:615][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.03.56:616][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.03.56:616][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.03.56:616][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.03.56:617][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.03.56:617][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.03.56:617][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.03.56:617][585]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.03.56:621][585]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.03.56:622][585]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.03.56:638][585]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.03.56:638][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.03.56:638][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.03.56:638][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.03.56:639][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.03.56:639][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.03.56:639][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.03.56:640][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.03.56:640][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.03.56:640][585]LogInit: FAudioDevice initialized.
+[2022.09.28-04.03.56:640][585]LogAudio: Display: Audio Device (ID: 96) registered with world 'Level'.
+[2022.09.28-04.03.56:660][585]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.03.56:668][585]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.03.56
+[2022.09.28-04.03.56:668][585]LogWorld: Bringing up level for play took: 0.005220
+[2022.09.28-04.03.56:669][585]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2022.09.28-04.03.56:694][585]PIE: Server logged in
+[2022.09.28-04.03.56:695][585]PIE: Play in editor total start time 0.168 seconds.
+[2022.09.28-04.03.57:826][613]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.58:336][627]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.03.58:861][641]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.03.58:861][641]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.03.59:435][656]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.03.59:435][656]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.03.59:893][669]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.00:435][682]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.00:906][695]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.00:906][695]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.04.01:014][698]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.04.01:014][698]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.04.01:451][710]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.01:968][724]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.02:500][738]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.02:500][738]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.04.02:502][738]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.03:516][766]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.03:516][766]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.04.03:516][766]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.04.03:516][766]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.04.03:532][766]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.04.03:532][766]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.04.03:558][767]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.04:075][781]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.04:561][794]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.04:561][794]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.04.09:844][935]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.10:340][949]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.10:819][962]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.10:819][962]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.10:819][962]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.10:858][963]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.11:383][977]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.11:827][989]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.11:827][989]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.11:827][989]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.11:912][991]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.12:837][ 16]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.12:837][ 16]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.12:837][ 16]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.13:852][ 43]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.13:852][ 43]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.13:852][ 43]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.14:895][ 70]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.14:895][ 70]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.14:896][ 70]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.15:898][ 97]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.15:899][ 97]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.15:899][ 97]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.16:909][124]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.16:909][124]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.16:909][124]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.17:949][151]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.17:949][151]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.17:949][151]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.18:973][178]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.18:973][178]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.18:973][178]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.19:993][204]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.19:993][204]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.19:993][204]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.21:015][231]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.21:015][231]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.21:015][231]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.22:050][258]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.22:050][258]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.22:050][258]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.23:078][285]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.23:078][285]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.23:078][285]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.23:460][295]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.04.24:101][312]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.24:101][312]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.24:101][312]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.25:137][339]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.25:137][339]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.25:137][339]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.26:164][366]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.26:164][366]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.04.26:164][366]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.04.27:195][393]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.04.27:195][393]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.04.29:752][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.04.29:753][459]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.04.29:753][459]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.04.29:754][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.04.29:811][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.04.29:818][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.04.29:855][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.04.29:855][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.04.29:856][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.04.29:861][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.04.29:866][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.09.28-04.04.29:904][460]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2022.09.28-04.06.25:273][513]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.06.25:385][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.09.28-04.06.59:127][233]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.06.59:257][233]LogUObjectHash: Compacting FUObjectHashTables data took   8.91ms
+[2022.09.28-04.07.01:425][279]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.07.01:448][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.07.01:448][279]PIE: New page: PIE session: Level (27 Sep 2022, 22:07:01)
+[2022.09.28-04.07.01:448][279]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.07.01:463][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014986s)
+[2022.09.28-04.07.01:464][279]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.07.01:466][279]LogPlayLevel: PIE: World Init took: (0.002282s)
+[2022.09.28-04.07.01:466][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.017492s)
+[2022.09.28-04.07.01:518][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.09.28-04.07.01:518][279]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.07.01:518][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.07.01:518][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.07.01:519][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.07.01:519][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.07.01:519][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.07.01:519][279]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.07.01:524][279]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.07.01:524][279]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.07.01:550][279]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.07.01:551][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.07.01:551][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.07.01:551][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.07.01:551][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.07.01:551][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.07.01:551][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.07.01:553][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.07.01:553][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.07.01:553][279]LogInit: FAudioDevice initialized.
+[2022.09.28-04.07.01:553][279]LogAudio: Display: Audio Device (ID: 97) registered with world 'Level'.
+[2022.09.28-04.07.01:564][279]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.07.01:575][279]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.07.01
+[2022.09.28-04.07.01:576][279]LogWorld: Bringing up level for play took: 0.006852
+[2022.09.28-04.07.01:577][279]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2022.09.28-04.07.01:591][279]PIE: Server logged in
+[2022.09.28-04.07.01:592][279]PIE: Play in editor total start time 0.158 seconds.
+[2022.09.28-04.07.02:772][309]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.03:272][322]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.03:779][335]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.03:779][335]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.04:290][348]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.07.04:290][348]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.07.04:829][362]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.05:365][376]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.05:865][389]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.05:865][389]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.10:562][511]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.11:096][525]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.11:595][538]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.11:595][538]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.11:597][538]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.12:103][551]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.12:608][564]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.12:608][564]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.12:610][564]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.13:217][572]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_16
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:02EA
+[2022.09.28-04.07.13:218][572]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.07.13:232][573]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.13:647][581]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.13:647][581]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.19:264][720]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_26
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:02EA
+[2022.09.28-04.07.19:265][720]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.07.23:145][822]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.23:682][836]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.24:175][849]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.24:175][849]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.25:313][871]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_36
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:02EA
+[2022.09.28-04.07.25:313][871]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.07.25:329][872]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.25:832][879]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.26:361][893]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.26:362][893]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.26:364][893]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.26:891][907]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.27:394][920]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.27:394][920]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.27:396][920]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.27:931][934]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.28:393][946]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.28:393][946]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.28:434][947]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.28:965][961]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.29:468][974]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.29:468][974]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.29:469][974]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.30:003][988]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.30:490][  1]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.30:490][  1]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.30:530][  2]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.31:554][ 29]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.31:554][ 29]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.35:294][125]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.35:802][138]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.36:333][152]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.36:334][152]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.36:336][152]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.36:835][165]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.37:397][172]LogScript: Warning: Attempted to access Sphere via property Sphere, but Sphere is pending kill
+	BP_Projectile_C /Game/MP2/Maps/UEDPIE_0_Level.Level:PersistentLevel.BP_Projectile_C_56
+	Function /Game/MP2/Bueprints/BP_Projectile.BP_Projectile_C:ExecuteUbergraph_BP_Projectile:02EA
+[2022.09.28-04.07.37:397][172]PIE: Error: Blueprint Runtime Error: "Attempted to access Sphere via property Sphere, but Sphere is pending kill". Blueprint:  BP_Projectile Function:  Execute Ubergraph BP Projectile Graph:  EventGraph Node:  Launch Character
+[2022.09.28-04.07.37:414][173]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.37:414][173]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.37:416][173]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.37:943][183]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.38:443][196]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.38:443][196]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.38:445][196]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.38:978][210]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.39:445][222]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.39:445][222]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.07.40:523][250]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.41:030][263]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.41:554][277]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.41:554][277]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.41:554][277]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.41:556][277]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.42:066][290]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.42:557][302]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.42:558][302]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.42:558][302]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.42:593][303]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.43:107][316]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.07.43:566][328]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.43:567][328]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.43:567][328]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.44:571][354]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.44:571][354]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.44:571][354]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.45:602][380]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.45:602][380]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.45:602][380]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.46:620][406]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.46:620][406]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.46:621][406]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.47:642][433]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.07.47:642][433]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.07.47:642][433]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.07.48:404][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.07.48:404][452]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.07.48:404][452]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.07.48:405][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.07.48:466][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.07.48:473][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.07.48:565][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.07.48:565][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.07.48:566][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.07.48:570][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.07.48:574][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.09.28-04.07.48:780][453]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2022.09.28-04.07.57:094][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fountain_Fountain_4)
+[2022.09.28-04.08.11:044][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-04.08.11:085][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.09.28-04.08.11:281][878]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level7E47594E4516CC9EB4D417A627F900CC.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap'
+[2022.09.28-04.08.11:298][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level_BuiltData" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset" SILENT=true
+[2022.09.28-04.08.12:455][878]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level_BuiltData602CE22943C7758F95FC5DB6F9235454.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset'
+[2022.09.28-04.08.12:523][878]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.28-04.08.12:523][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MP2/Maps/Level_BuiltData.Level_BuiltData
+[2022.09.28-04.08.12:523][878]LogContentValidation: Display: Validating World /Game/MP2/Maps/Level.Level
+[2022.09.28-04.08.13:058][889]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.08.13:074][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.08.13:075][889]PIE: New page: PIE session: Level (27 Sep 2022, 22:08:13)
+[2022.09.28-04.08.13:075][889]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.08.13:090][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015408s)
+[2022.09.28-04.08.13:091][889]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.08.13:092][889]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2022.09.28-04.08.13:092][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.016602s)
+[2022.09.28-04.08.13:140][889]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2022.09.28-04.08.13:216][889]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.08.13:216][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.08.13:216][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.08.13:217][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.08.13:217][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.08.13:217][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.08.13:217][889]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.08.13:221][889]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.08.13:221][889]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.08.13:240][889]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.08.13:240][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.08.13:241][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.08.13:241][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.08.13:241][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.08.13:241][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.08.13:241][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.08.13:242][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.08.13:242][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.08.13:242][889]LogInit: FAudioDevice initialized.
+[2022.09.28-04.08.13:242][889]LogAudio: Display: Audio Device (ID: 98) registered with world 'Level'.
+[2022.09.28-04.08.13:250][889]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.08.13:259][889]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.08.13
+[2022.09.28-04.08.13:259][889]LogWorld: Bringing up level for play took: 0.005391
+[2022.09.28-04.08.13:260][889]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2022.09.28-04.08.13:265][889]PIE: Server logged in
+[2022.09.28-04.08.13:265][889]PIE: Play in editor total start time 0.198 seconds.
+[2022.09.28-04.08.14:098][905]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.14:608][918]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.15:127][932]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.15:129][932]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.15:975][954]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.08.15:975][954]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.08.16:163][959]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.16:700][973]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.17:201][986]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.17:201][986]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.17:309][989]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.08.17:310][989]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.08.18:260][ 14]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.18:764][ 27]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.19:259][ 40]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.19:260][ 40]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.20:077][ 61]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.08.20:077][ 61]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.08.20:376][ 69]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.20:918][ 83]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.21:413][ 96]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.21:413][ 96]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.21:589][100]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.08.21:589][100]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.08.21:952][110]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.22:975][136]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.22:975][136]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.29:733][312]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.30:258][326]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.30:757][339]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.30:757][339]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.30:758][339]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.31:290][353]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.31:758][365]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.31:758][365]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.32:844][393]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.33:349][406]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.33:844][419]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.33:844][419]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.08.34:895][446]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.35:407][459]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.35:920][472]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.35:920][472]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.35:920][472]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.36:448][485]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.36:922][497]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.36:922][497]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.36:922][497]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.36:962][498]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.37:488][511]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.37:930][522]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.37:930][522]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.37:930][522]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.38:022][524]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.38:938][547]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.38:938][547]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.38:938][547]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.39:062][550]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.39:943][572]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.39:943][572]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.39:943][572]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.40:106][576]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.40:947][597]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.40:947][597]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.40:948][597]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.41:152][602]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.08.41:954][622]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.08.41:954][622]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.08.41:954][622]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.08.44:674][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.08.44:674][690]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.08.44:675][690]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.08.44:679][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.08.44:735][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.08.44:762][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.08.44:803][690]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.08.44:805][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.08.44:806][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.08.44:813][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.08.44:820][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.09.28-04.08.44:932][691]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2022.09.28-04.08.46:867][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fountain_Fountain_5)
+[2022.09.28-04.08.59:616][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-04.08.59:658][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.09.28-04.08.59:747][946]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level330AC5A44A7D3A6E712337ABE232D2C3.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap'
+[2022.09.28-04.08.59:761][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level_BuiltData" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset" SILENT=true
+[2022.09.28-04.09.00:696][946]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level_BuiltDataBCF6FA284D45879A1F00AFA6A4DEB81B.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset'
+[2022.09.28-04.09.00:776][946]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.28-04.09.00:776][946]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MP2/Maps/Level_BuiltData.Level_BuiltData
+[2022.09.28-04.09.00:776][946]LogContentValidation: Display: Validating World /Game/MP2/Maps/Level.Level
+[2022.09.28-04.09.01:453][959]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.09.01:475][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.09.01:475][959]PIE: New page: PIE session: Level (27 Sep 2022, 22:09:01)
+[2022.09.28-04.09.01:475][959]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.09.01:491][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016464s)
+[2022.09.28-04.09.01:492][959]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.09.01:492][959]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2022.09.28-04.09.01:492][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.017626s)
+[2022.09.28-04.09.01:543][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.09.28-04.09.01:543][959]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.09.01:543][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.09.01:544][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.09.01:544][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.09.01:544][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.09.01:544][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.09.01:544][959]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.09.01:550][959]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.09.01:550][959]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.09.01:610][959]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.09.01:610][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.09.01:610][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.09.01:610][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.09.01:610][959]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.09.01:610][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.09.01:610][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.09.01:612][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.09.01:612][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.09.01:612][959]LogInit: FAudioDevice initialized.
+[2022.09.28-04.09.01:612][959]LogAudio: Display: Audio Device (ID: 99) registered with world 'Level'.
+[2022.09.28-04.09.01:621][959]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.09.01:631][959]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.09.01
+[2022.09.28-04.09.01:631][959]LogWorld: Bringing up level for play took: 0.005494
+[2022.09.28-04.09.01:632][959]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2022.09.28-04.09.01:637][959]PIE: Server logged in
+[2022.09.28-04.09.01:638][959]PIE: Play in editor total start time 0.173 seconds.
+[2022.09.28-04.09.02:973][987]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.03:515][  1]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.04:104][ 10]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.04:104][ 10]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.04:489][ 20]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.09.04:489][ 20]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.09.05:143][ 37]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.06:183][ 64]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.06:183][ 64]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.06:256][ 66]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.09.06:256][ 66]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.09.06:712][ 78]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.07:240][ 92]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.07:723][105]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.07:723][105]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.08:607][116]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.09.08:607][116]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.09.08:870][122]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.09:385][136]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.09:874][149]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.09:874][149]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.09:934][150]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.09.09:934][150]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.09.10:447][164]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.10:954][177]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.11:482][191]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.11:482][191]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.11:484][191]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.12:506][218]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.12:506][218]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.12:506][218]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.09.12:506][218]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.09.12:507][218]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.09.12:507][218]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.09.12:550][219]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.13:071][233]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.13:562][246]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.13:562][246]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.19:864][407]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.20:376][420]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.20:877][433]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.20:878][433]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.20:879][433]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.21:391][446]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.21:894][459]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.21:894][459]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.21:895][459]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.22:401][472]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.22:898][485]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.22:898][485]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.22:952][486]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.23:488][500]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.23:951][512]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.23:951][512]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.09.37:329][852]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.37:835][865]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.09.38:367][878]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.38:367][878]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.09.38:367][878]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.09.39:405][895]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.09.39:405][895]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.09.39:405][895]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.10.02:166][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.10.02:166][477]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.10.02:166][477]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.10.02:167][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.10.02:207][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.10.02:233][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.10.02:307][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.10.02:307][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.10.02:309][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.10.02:319][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.09.28-04.10.02:412][478]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2022.09.28-04.10.06:424][571]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-04.10.06:526][571]LogSlate: Window 'Message Log' being destroyed
+[2022.09.28-04.13.45:626][499]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.13.45:648][499]LogBlueprint: Error: [AssetLog] G:\My Passport\CS415\Level-Game\UnrealLearningKit\Content\MP2\Bueprints\BP_Projectile.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.09.28-04.13.45:730][499]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2022.09.28-04.14.02:402][667]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.14.02:414][667]LogBlueprint: Error: [AssetLog] G:\My Passport\CS415\Level-Game\UnrealLearningKit\Content\MP2\Bueprints\BP_Projectile.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.09.28-04.14.02:489][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.09.28-04.15.01:690][758]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.15.01:702][758]LogBlueprint: Error: [AssetLog] G:\My Passport\CS415\Level-Game\UnrealLearningKit\Content\MP2\Bueprints\BP_Projectile.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.09.28-04.15.01:791][758]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.09.28-04.15.32:810][229]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.15.32:913][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.09.28-04.15.44:525][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Bueprints/BP_Projectile" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset" SILENT=true
+[2022.09.28-04.15.44:562][458]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/BP_Projectile45F31F6A41F903ADDCDFA3984023506D.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Bueprints/BP_Projectile.uasset'
+[2022.09.28-04.15.44:591][458]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.09.28-04.15.44:591][458]LogContentValidation: Display: Validating Blueprint /Game/MP2/Bueprints/BP_Projectile.BP_Projectile
+[2022.09.28-04.15.45:369][474]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.15.45:468][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.09.28-04.15.47:735][521]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.15.47:760][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.15.47:760][521]PIE: New page: PIE session: Level (27 Sep 2022, 22:15:47)
+[2022.09.28-04.15.47:760][521]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.15.47:784][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022976s)
+[2022.09.28-04.15.47:786][521]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.15.47:787][521]LogPlayLevel: PIE: World Init took: (0.003565s)
+[2022.09.28-04.15.47:788][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.026888s)
+[2022.09.28-04.15.47:843][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.09.28-04.15.47:844][521]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.15.47:844][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.15.47:844][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.15.47:845][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.15.47:845][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.15.47:845][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.15.47:845][521]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.15.47:848][521]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.15.47:848][521]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.15.47:866][521]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.15.47:867][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.15.47:867][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.15.47:867][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.15.47:867][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.15.47:867][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.15.47:867][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.15.47:869][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.15.47:869][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.15.47:869][521]LogInit: FAudioDevice initialized.
+[2022.09.28-04.15.47:869][521]LogAudio: Display: Audio Device (ID: 100) registered with world 'Level'.
+[2022.09.28-04.15.47:876][521]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.15.47:884][521]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.15.47
+[2022.09.28-04.15.47:885][521]LogWorld: Bringing up level for play took: 0.005687
+[2022.09.28-04.15.47:885][521]LogOnline: OSS: Creating online subsystem instance for: :Context_142
+[2022.09.28-04.15.47:891][521]PIE: Server logged in
+[2022.09.28-04.15.47:892][521]PIE: Play in editor total start time 0.146 seconds.
+[2022.09.28-04.15.48:851][531]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.15.49:348][545]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.15.49:868][559]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.15.49:868][559]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.15.50:718][582]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.15.50:718][582]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.15.50:894][587]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.15.51:400][601]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.15.51:905][615]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.15.51:905][615]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.15.52:275][625]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.15.52:275][625]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.15.52:434][629]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.15.53:446][657]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.15.53:446][657]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.15.59:237][803]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.15.59:761][817]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.00:266][831]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.00:266][831]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.16.00:267][831]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.00:791][845]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.01:294][859]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.01:294][859]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.16.01:295][859]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.01:817][873]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.02:323][887]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.02:323][887]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.02:323][887]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.02:833][899]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.03:521][908]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.03:521][908]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.03:521][908]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.04:537][936]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.04:538][936]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.04:538][936]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.05:551][964]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.05:551][964]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.05:551][964]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.06:574][992]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.06:574][992]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.16.35:792][767]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.36:293][780]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.36:808][793]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.36:808][793]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.16.42:034][934]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.42:550][948]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.43:067][962]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.43:067][962]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.43:068][962]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.43:069][962]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.43:736][972]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.44:072][976]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.44:072][976]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.44:072][976]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.44:247][980]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.44:758][994]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.45:091][  3]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.45:091][  3]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.45:091][  3]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.46:122][ 30]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.46:123][ 30]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.46:123][ 30]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.46:323][ 35]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.46:839][ 48]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.16.47:140][ 56]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.47:140][ 56]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.47:140][ 56]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.48:161][ 84]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.48:161][ 84]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.48:161][ 84]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.49:185][112]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.49:185][112]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.49:185][112]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.50:216][140]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.50:216][140]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.50:216][140]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.51:232][168]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.51:232][168]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.51:233][168]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.52:243][195]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.52:243][195]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.52:244][195]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.53:242][222]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.53:242][222]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.53:242][222]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.54:279][250]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.54:279][250]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.54:279][250]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.55:284][277]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.55:284][277]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.55:284][277]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.56:336][305]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.56:336][305]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.56:336][305]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.57:355][333]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.57:355][333]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.57:356][333]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.58:380][361]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.58:380][361]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.58:380][361]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.16.59:410][389]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.16.59:410][389]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.16.59:410][389]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.00:445][417]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.00:445][417]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.00:445][417]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.01:480][445]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.01:481][445]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.01:481][445]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.02:481][472]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.02:482][472]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.02:482][472]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.03:515][500]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.03:515][500]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.03:515][500]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.04:529][514]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.04:529][514]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.04:529][514]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.05:542][542]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.05:542][542]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.05:542][542]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.06:559][570]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.06:559][570]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.06:559][570]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.07:585][598]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.07:585][598]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.07:585][598]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.08:620][626]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.08:620][626]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.08:620][626]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.09:639][654]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.09:639][654]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.17.09:640][654]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.17.10:650][682]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.17.10:650][682]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.17.10:975][691]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.17.10:975][691]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.17.10:976][691]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.17.21:365][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.17.21:365][983]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.17.21:366][983]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.17.21:369][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.17.21:420][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.17.21:448][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.17.21:491][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.17.21:491][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.17.21:493][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.17.21:497][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.17.21:503][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.09.28-04.17.21:875][984]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2022.09.28-04.19.40:844][ 26]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.19.41:013][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.09.28-04.19.56:489][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight5)
+[2022.09.28-04.19.57:599][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight4)
+[2022.09.28-04.20.04:876][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight5)
+[2022.09.28-04.20.08:127][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight8)
+[2022.09.28-04.20.09:600][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kit_Wall_Straight8)
+[2022.09.28-04.20.30:546][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-04.20.30:592][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.09.28-04.20.30:684][ 61]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/LevelBCCF82234617EFBCD5B55A9708FBF86D.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level.umap'
+[2022.09.28-04.20.30:710][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MP2/Maps/Level_BuiltData" FILE="../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset" SILENT=true
+[2022.09.28-04.20.31:468][ 61]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/Level_BuiltData0354392C4C450FEB5C023196A67D9F1E.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/MP2/Maps/Level_BuiltData.uasset'
+[2022.09.28-04.20.31:537][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.28-04.20.31:537][ 61]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MP2/Maps/Level_BuiltData.Level_BuiltData
+[2022.09.28-04.20.31:537][ 61]LogContentValidation: Display: Validating World /Game/MP2/Maps/Level.Level
+[2022.09.28-04.20.32:026][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.20.32:048][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.20.32:048][ 70]PIE: New page: PIE session: Level (27 Sep 2022, 22:20:32)
+[2022.09.28-04.20.32:048][ 70]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.20.32:063][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014871s)
+[2022.09.28-04.20.32:064][ 70]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.20.32:065][ 70]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2022.09.28-04.20.32:065][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.016668s)
+[2022.09.28-04.20.32:118][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.09.28-04.20.32:118][ 70]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2022.09.28-04.20.32:118][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.20.32:118][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.20.32:119][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.20.32:119][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.20.32:119][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.20.32:119][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.20.32:119][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.20.32:119][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.20.32:119][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.20.32:119][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.20.32:120][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.20.32:120][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.20.32:128][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.20.32:128][ 70]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.20.32:188][ 70]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.20.32:188][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.20.32:188][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.20.32:188][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.20.32:189][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.20.32:189][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.20.32:189][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.20.32:190][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.20.32:190][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.20.32:190][ 70]LogInit: FAudioDevice initialized.
+[2022.09.28-04.20.32:190][ 70]LogAudio: Display: Audio Device (ID: 101) registered with world 'Level'.
+[2022.09.28-04.20.32:200][ 70]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.20.32:209][ 70]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.20.32
+[2022.09.28-04.20.32:210][ 70]LogWorld: Bringing up level for play took: 0.005700
+[2022.09.28-04.20.32:210][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2022.09.28-04.20.32:215][ 70]PIE: Server logged in
+[2022.09.28-04.20.32:216][ 70]PIE: Play in editor total start time 0.177 seconds.
+[2022.09.28-04.20.33:543][ 97]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.20.34:066][111]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.20.34:561][124]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.20.34:561][124]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.20.38:237][221]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.20.38:756][235]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.20.39:276][249]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.20.39:276][249]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.20.39:276][249]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.20.39:277][249]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.20.39:785][263]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.20.40:290][276]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.20.40:290][276]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.20.40:290][276]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.20.41:308][304]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.20.41:308][304]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.21.01:464][843]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.21.02:481][869]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.21.02:481][869]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.21.40:857][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.21.40:857][976]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.21.40:858][976]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.21.40:859][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.21.40:905][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.21.40:927][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.21.41:275][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.21.41:275][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.21.41:276][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.21.41:284][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.09.28-04.21.41:378][977]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2022.09.28-04.21.44:111][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.21.44:129][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.21.44:129][ 47]PIE: New page: PIE session: Level (27 Sep 2022, 22:21:44)
+[2022.09.28-04.21.44:129][ 47]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.21.44:144][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014330s)
+[2022.09.28-04.21.44:145][ 47]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.21.44:145][ 47]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2022.09.28-04.21.44:145][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.015728s)
+[2022.09.28-04.21.44:198][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.09.28-04.21.44:200][ 47]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.21.44:200][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.21.44:200][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.21.44:201][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.21.44:201][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.21.44:201][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.21.44:201][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.21.44:206][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.21.44:206][ 47]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.21.44:239][ 47]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.21.44:240][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.21.44:240][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.21.44:240][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.21.44:241][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.21.44:241][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.21.44:241][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.21.44:243][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.21.44:243][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.21.44:243][ 47]LogInit: FAudioDevice initialized.
+[2022.09.28-04.21.44:243][ 47]LogAudio: Display: Audio Device (ID: 102) registered with world 'Level'.
+[2022.09.28-04.21.44:263][ 47]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.21.44:276][ 47]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.21.44
+[2022.09.28-04.21.44:277][ 47]LogWorld: Bringing up level for play took: 0.006011
+[2022.09.28-04.21.44:277][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_144
+[2022.09.28-04.21.44:282][ 47]PIE: Server logged in
+[2022.09.28-04.21.44:284][ 47]PIE: Play in editor total start time 0.163 seconds.
+[2022.09.28-04.21.45:474][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.21.45:474][ 77]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.21.45:475][ 77]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.21.45:476][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.21.45:493][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.21.45:557][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.21.45:594][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.21.45:594][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.21.45:596][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.21.45:604][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.09.28-04.21.45:671][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2022.09.28-04.22.09:851][685]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.SM_Kit_Wall_Straight
+[2022.09.28-04.24.41:699][420]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/SM_Kit_Wall_StraightA2D7592F48AFB62FA800C9843E3D025D.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.uasset'
+[2022.09.28-04.24.41:820][420]AssetCheck: New page: Asset Save: SM_Kit_Wall_Straight
+[2022.09.28-04.24.41:820][420]LogContentValidation: Display: Validating StaticMesh /Game/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.SM_Kit_Wall_Straight
+[2022.09.28-04.24.54:466][696]LogSavePackage: Moving '../../../../../CS415/Level-Game/UnrealLearningKit/Saved/SM_Kit_Wall_Straight125746F2458525B4B154149C24E326A6.tmp' to '../../../../../CS415/Level-Game/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.uasset'
+[2022.09.28-04.24.54:493][696]AssetCheck: New page: Asset Save: SM_Kit_Wall_Straight
+[2022.09.28-04.24.54:494][696]LogContentValidation: Display: Validating StaticMesh /Game/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.SM_Kit_Wall_Straight
+[2022.09.28-04.25.15:513][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.25.15:534][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.25.15:534][ 11]PIE: New page: PIE session: Level (27 Sep 2022, 22:25:15)
+[2022.09.28-04.25.15:535][ 11]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.25.15:552][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017184s)
+[2022.09.28-04.25.15:553][ 11]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.25.15:553][ 11]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2022.09.28-04.25.15:553][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.018806s)
+[2022.09.28-04.25.15:599][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.09.28-04.25.15:645][ 11]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2022.09.28-04.25.15:645][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.25.15:645][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.25.15:645][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.25.15:646][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.25.15:646][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.25.15:646][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.25.15:646][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.25.15:646][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.25.15:646][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.25.15:646][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.25.15:646][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.25.15:646][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.25.15:650][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.25.15:650][ 11]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.25.15:672][ 11]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.25.15:672][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.25.15:672][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.25.15:672][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.25.15:673][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.25.15:673][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.25.15:673][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.25.15:674][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.25.15:674][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.25.15:674][ 11]LogInit: FAudioDevice initialized.
+[2022.09.28-04.25.15:674][ 11]LogAudio: Display: Audio Device (ID: 103) registered with world 'Level'.
+[2022.09.28-04.25.15:686][ 11]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.25.15:695][ 11]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.25.15
+[2022.09.28-04.25.15:696][ 11]LogWorld: Bringing up level for play took: 0.005565
+[2022.09.28-04.25.15:696][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_146
+[2022.09.28-04.25.15:702][ 11]PIE: Server logged in
+[2022.09.28-04.25.15:703][ 11]PIE: Play in editor total start time 0.178 seconds.
+[2022.09.28-04.25.16:930][ 35]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.25.17:462][ 49]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.25.17:949][ 62]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.25.17:949][ 62]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.25.18:461][ 75]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.25.18:461][ 75]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.25.18:495][ 76]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.25.19:015][ 90]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.25.19:495][103]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.25.19:495][103]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.25.40:578][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.25.40:578][665]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.25.40:579][665]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.25.40:580][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.25.40:674][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.25.40:705][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.25.40:752][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.25.40:753][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.25.40:754][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.25.40:764][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.25.40:769][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.09.28-04.25.40:843][666]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2022.09.28-04.26.27:511][279]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.26.27:624][279]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.09.28-04.27.12:049][886]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.27.12:124][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.09.28-04.27.14:714][918]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.27.14:732][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.27.14:732][918]PIE: New page: PIE session: Level (27 Sep 2022, 22:27:14)
+[2022.09.28-04.27.14:732][918]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.27.14:748][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015687s)
+[2022.09.28-04.27.14:750][918]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.27.14:751][918]LogPlayLevel: PIE: World Init took: (0.003632s)
+[2022.09.28-04.27.14:751][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.019735s)
+[2022.09.28-04.27.14:796][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.09.28-04.27.14:796][918]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.27.14:797][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.27.14:797][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.27.14:797][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.27.14:797][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.27.14:797][918]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.27.14:801][918]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.27.14:801][918]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.27.14:838][918]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.27.14:839][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.27.14:839][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.27.14:839][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.27.14:840][918]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.27.14:840][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.27.14:840][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.27.14:844][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.27.14:844][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.27.14:844][918]LogInit: FAudioDevice initialized.
+[2022.09.28-04.27.14:844][918]LogAudio: Display: Audio Device (ID: 104) registered with world 'Level'.
+[2022.09.28-04.27.14:862][918]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.27.14:873][918]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.27.14
+[2022.09.28-04.27.14:873][918]LogWorld: Bringing up level for play took: 0.005776
+[2022.09.28-04.27.14:874][918]LogOnline: OSS: Creating online subsystem instance for: :Context_147
+[2022.09.28-04.27.14:880][918]PIE: Server logged in
+[2022.09.28-04.27.14:881][918]PIE: Play in editor total start time 0.157 seconds.
+[2022.09.28-04.27.16:147][950]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.27.16:676][964]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.27.17:167][977]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.27.17:167][977]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.27.21:903][101]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.27.22:411][114]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.27.22:937][128]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.27.22:937][128]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.27.22:937][128]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.27.22:939][128]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.27.23:968][156]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.27.23:968][156]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.27.23:968][156]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.27.24:979][182]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.27.24:979][182]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.27.41:625][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.27.41:625][601]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.27.41:626][601]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.27.41:627][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.27.41:693][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.27.41:723][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.27.41:763][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.27.41:763][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.27.41:764][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.27.41:777][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.27.41:782][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.09.28-04.27.41:856][602]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2022.09.28-04.28.41:411][446]BlueprintLog: New page: Compile BP_Projectile
+[2022.09.28-04.28.41:502][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2022.09.28-04.28.55:305][603]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.28-04.28.55:321][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-04.28.55:321][603]PIE: New page: PIE session: Level (27 Sep 2022, 22:28:55)
+[2022.09.28-04.28.55:321][603]LogPlayLevel: Creating play world package: /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.28.55:335][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013463s)
+[2022.09.28-04.28.55:336][603]LogAIModule: Creating AISystem for world Level
+[2022.09.28-04.28.55:336][603]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2022.09.28-04.28.55:336][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MP2/Maps/Level.Level to /Game/MP2/Maps/UEDPIE_0_Level.Level (0.015002s)
+[2022.09.28-04.28.55:398][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.09.28-04.28.55:399][603]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-04.28.55:400][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-04.28.55:400][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-04.28.55:400][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-04.28.55:400][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-04.28.55:400][603]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-04.28.55:406][603]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-04.28.55:406][603]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-04.28.55:471][603]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.09.28-04.28.55:471][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-04.28.55:471][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-04.28.55:471][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-04.28.55:472][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-04.28.55:472][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-04.28.55:472][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.28-04.28.55:473][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-04.28.55:473][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-04.28.55:473][603]LogInit: FAudioDevice initialized.
+[2022.09.28-04.28.55:473][603]LogAudio: Display: Audio Device (ID: 105) registered with world 'Level'.
+[2022.09.28-04.28.55:489][603]LogLoad: Game class is 'GM_C'
+[2022.09.28-04.28.55:501][603]LogWorld: Bringing World /Game/MP2/Maps/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2022.09.28-01.28.55
+[2022.09.28-04.28.55:501][603]LogWorld: Bringing up level for play took: 0.007160
+[2022.09.28-04.28.55:502][603]LogOnline: OSS: Creating online subsystem instance for: :Context_148
+[2022.09.28-04.28.55:508][603]PIE: Server logged in
+[2022.09.28-04.28.55:509][603]PIE: Play in editor total start time 0.195 seconds.
+[2022.09.28-04.28.56:359][623]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.28.56:891][637]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.28.57:384][650]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.28.57:384][650]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.28.58:169][670]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.28.58:169][670]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.28.58:473][678]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.28.58:975][691]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.28.59:498][705]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.28.59:498][705]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.28.59:617][708]LogBlueprintUserMessages: [Character_2] Resetting angle
+[2022.09.28-04.28.59:617][708]LogBlueprintUserMessages: [Character_2] Setting to roam
+[2022.09.28-04.29.07:596][843]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.29.08:289][850]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.29.08:666][852]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.29.08:666][852]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.29.08:667][852]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.29.08:821][855]LogBlueprintUserMessages: [Character_2] Signal to Chase
+[2022.09.28-04.29.09:850][875]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.29.09:850][875]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.29.09:850][875]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.29.10:877][896]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.29.10:877][896]LogBlueprintUserMessages: [Character_2] In range
+[2022.09.28-04.29.10:877][896]LogBlueprintUserMessages: [Character_2] Chasing Player
+[2022.09.28-04.29.11:989][918]LogBlueprintUserMessages: [Character_2] In loop
+[2022.09.28-04.29.11:989][918]LogBlueprintUserMessages: [Character_2] Not in range
+[2022.09.28-04.29.12:434][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.29.12:434][925]LogWorld: BeginTearingDown for /Game/MP2/Maps/UEDPIE_0_Level
+[2022.09.28-04.29.12:435][925]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-04.29.12:436][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.29.12:492][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-04.29.12:515][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-04.29.12:560][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-04.29.12:561][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.29.12:562][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-04.29.12:566][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-04.29.12:571][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.09.28-04.29.12:633][926]LogPlayLevel: Display: Destroying online subsystem :Context_148
